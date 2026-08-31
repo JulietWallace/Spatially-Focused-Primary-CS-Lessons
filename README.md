@@ -1,6 +1,6 @@
 This repo contains materials for a series of six primary school Scratch/Python programming lessons. These lessons are designed to incorporate the training of spatial reasoning skills within primary school computing science lessons and are intended to fit within the Scottish Curriculum for Excellence. Lessons were taught (by me) to a P7 (age 10-12) class. 
 
-<br />
+<br >
 **Goals and rationale**
 <br />
 
@@ -11,7 +11,7 @@ Parallel to the research on spatial skills training and computing science, simil
 Given the success of these integrated spatial/maths programmes and the known connections between computing science and spatial reasoning, we set out to design a set of lessons which would build spatial skills training into primary school computing science lessons.
 
 
-<br />
+<br >
 **Using this repo**
 <br />
 
