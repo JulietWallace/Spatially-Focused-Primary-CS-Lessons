@@ -19,9 +19,9 @@ Each lesson has its own folder which contains an overall lesson plan, presentati
 
 When you access the Lessons folder, there are 2 documents: GeneralGuidanceDoc and LanguageTransferGuidance. These should be read before accessing any of the lesson materials. The GeneralGuidanceDoc explains the rationale behind lessons 
 
-**----------------------------------------------------------------------------------------------------------------------------------
-Paper reference and contact details
-----------------------------------------------------------------------------------------------------------------------------------**
+<br >
+**Paper reference and contact details**
+<br />
 
 Our findings from trialling these lessons within a classroom have been published at UKICER 2026. This is the reference for that paper: 
 
