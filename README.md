@@ -10,6 +10,12 @@ Each lesson follows a similar structure. Pupils begin with an 'unplugged' activi
 
 These activities are meant to encourage computational thinking skills through pupils analysing the computational patterns we see in everyday life. For example, lesson 4 introduces if/else statements. Pupils are given a question - if they will wear a coat when they go outside at break time later. Pupils think about what factors influence their decision to wear/not wear a coat. They then wrote these down as if-else statements. e.g. if it is cold, I will bring my coat. Else, I will leave my coat inside. 
 
+Pupils were then taught the if/else construct in Python. The final activity got pupils to create short Python programs using if/else to model their decision about wearing a coat and to create other guessing game type programs. 
+
+Margulieux's Spatial Encoding Strategy (SpES) describes the process of building "non-verbal mental representations" of spatial information.
+
+Pupils should be encouraged to see the connections between their unplugged work and their programs. For example, asking pupils 
+
 
 ## Goals and rationale
 
