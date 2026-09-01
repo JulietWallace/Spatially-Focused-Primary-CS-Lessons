@@ -3,6 +3,14 @@
 
 This repo contains materials for a series of six primary school Scratch/Python programming lessons. These lessons are designed to incorporate the training of spatial reasoning skills within primary school computing science lessons and are intended to fit within the Scottish Curriculum for Excellence. Lessons were taught (by me) to a P7 (age 10-12) class. 
 
+
+## Teaching advice
+
+Each lesson follows a similar structure. Pupils begin with an 'unplugged' activity. This is an activity which does not involve devices. 
+
+These activities are meant to encourage computational thinking skills through pupils analysing the computational patterns we see in everyday life. For example, lesson 4 introduces if/else statements. Pupils are given a question - if they will wear a coat when they go outside at break time later. Pupils think about what factors influence their decision to wear/not wear a coat. They then wrote these down as if-else statements. e.g. if it is cold, I will bring my coat. Else, I will leave my coat inside. 
+
+
 ## Goals and rationale
 
 
