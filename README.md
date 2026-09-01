@@ -24,7 +24,9 @@ When you access the Lessons folder, there are 2 documents: GeneralGuidanceDoc an
 
 Our findings from trialling these lessons within a classroom have been published at UKICER 2026. This is the reference for that paper: 
 
+```bibtex
  @inproceedings{Wallace_Cutts_2026, address={Cambridge , United Kingdom}, title={Investigating the Relationships between Spatial Skills, Programming and Attitudes Towards Computing in a Middle School Age Group}, ISBN={979-8-4007-2593-7}, url={https://dl.acm.org/doi/10.1145/3830800.3830808}, DOI={10.1145/3830800.3830808}, booktitle={Proceedings of the 2026 United Kingdom and Ireland Computing Education Research}, publisher={ACM}, author={Wallace, Juliet Rose and Cutts, Quintin}, year={2026}, month=sept, pages={1–7}, language={en} }
+```
 
 
 Any questions or comments contact 2760588w@student.gla.ac.uk or julietwallace05@gmail.com :)
